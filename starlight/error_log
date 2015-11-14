@@ -1,0 +1,2 @@
+[28-Sep-2015 09:20:45 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/sockol/public_html/3dcrestwhite.ru/wp-content/themes/3dcrestwhite/index.php on line 13
+[28-Sep-2015 09:21:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home4/sockol/public_html/3dcrestwhite.ru/wp-content/themes/3dcrestwhite/index.php on line 13

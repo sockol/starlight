@@ -1,0 +1,25 @@
+.clear {
+	clear: both !important;
+	float: none !important;
+	width: 0 !important;
+	height: 0 !important;
+	padding:0 !important;
+	margin: 0 !important;
+}
+/* Clearing */
+.clear:before,
+.clear:after,
+[class*="content"]:before,
+[class*="content"]:after,
+[class*="site"]:before,
+[class*="site"]:after {
+	content: '';
+	display: table;
+}
+
+.clear:after,
+[class*="content"]:after,
+[class*="site"]:after {
+	clear: both;
+}
+

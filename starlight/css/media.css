@@ -1,0 +1,432 @@
+
+
+@media only screen and (max-width: 1400px) {
+
+    .home .slider h1 {  
+        line-height: 40px;
+        padding: 0 10px; 
+        display: block;
+        font-size: 26px;
+        line-height: 28px;
+    }
+}
+
+/* For mobile menu layouts */
+@media only screen and (max-width: 1200px) {
+    
+    /*
+    Header
+    */
+
+    
+    .nav .mobile{
+      display: none;
+    }
+    .nav .stationary{
+      display: table;
+    }
+}
+
+/* For general iPad layouts */
+@media only screen and (max-width: 1050px) {
+    .video-box h1{
+          font-size: 45px;
+    }
+    .video-box .box{
+        height: 200px;
+    }
+    .video-box p { 
+      font-size: 18px;
+      line-height: 24px;
+    }
+    .enable-parallax h2{
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .enable-parallax p { 
+      font-size: 22px;
+      line-height: 24px;
+    }
+
+     
+}
+
+@media only screen and (max-width: 980px) {
+    
+}
+
+@media (max-width: 979px){
+    .wi-column {
+        width: 22% !important;
+        margin-right: 4% !important;
+    }
+    .column-last {
+      margin-right: 0 !important;
+    }
+    .page-template-about-us .wi-column{
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 930px) {
+    
+
+
+    /*
+    Footer
+    */ 
+     
+    footer .cap > div{
+        display: table; 
+        float: none; 
+        margin: 0 40px;   
+    }
+    footer h6{
+        text-indent: 0 !important;
+        margin: 0 !important;
+        border-bottom: 1px solid #D6D6D6;
+        padding-left: 0;
+        padding-top: 40px;
+    }
+    footer .categories{
+        border-bottom: 1px solid #fff;
+        width: 90% !important;
+        margin: 0 auto !important;
+        padding: 0 !important;
+    }
+    footer .info{
+        width: 90% !important;
+        margin: 0 auto !important;
+        padding: 0 !important; 
+    }
+    footer .categories a{
+        background: transparent;
+        display: block;
+        width: 100%;
+        border-bottom: 1px solid #D6D6D6;
+        border-top: 1px solid #fff;
+        padding: 10px 0;
+        margin: 0;  
+    }
+    footer .info i {
+        font-size: 100px; 
+        top: 20px !important;
+        width: 100px;
+    } 
+    footer .city{
+
+      top: 16px !important; 
+    }
+    footer .num,
+    footer .addr{
+      margin-left:0 !important;
+      top: 18px !important;
+    } 
+    footer .info h6{
+        text-align: left;
+    }
+    footer .info .wrap{
+        margin:0;
+        width: auto;
+        border-top: 1px solid #fff;
+        padding: 10px 0;
+    }
+    footer .address{
+        text-align: left !important;
+    }
+}
+
+@media only screen and (max-width: 820px) {
+
+}
+
+/* For general iPad layouts */
+@media only screen and (max-width: 768px) {
+ 
+    /*
+    Header
+    */
+    header{
+        padding: 0;  
+        position: fixed !important; 
+        z-index: 9; 
+        -webkit-box-shadow: 6px 0px 12px -4px #000;
+        -moz-box-shadow: 6px 0px 12px -4px #000;
+        box-shadow: 6px 0px 12px -4px #000;
+    }
+    header .links-wrap{
+        background-image:none;
+    }
+    header:before{
+        height: 0;
+        background-image:none;
+    }
+    header .links-wrap{
+        margin-top: 20px;
+        margin-right: 0;
+    }
+
+    /*
+    Home
+    */
+    body .container, #wi-header .container .logo-desc{
+           width: inherit !important; 
+    }
+    .video-box .box{
+        width: auto;
+    }
+ 
+    .wi-column {
+        width: 100% !important;
+        margin-right: 0 !important;
+    } 
+ 
+ 
+}
+
+@media only screen and (max-width: 700px) {
+    
+    .nav .mobile{
+      display: table;
+    }
+    .nav .stationary{
+      display: none;
+    }
+    .home-cities .wrap { 
+      padding: 40px 100px;
+    }
+    .video-box .box{
+        padding: 0 40px;
+    }
+    nav.transparent { 
+      height: 40px !important;
+    }
+    .nav .wrap{
+        width: 100%;
+    }
+
+    .page-template-about-us .wi-fullwidth { 
+      padding-bottom: 0 !important;
+      height: 300px;
+        padding-top: 100px !important;
+    }
+    .page-template-about-us .wi-fullwidth h1 { 
+      font-size: 35px;
+    }
+    .page-template-about-us .wi-fullwidth p { 
+      font-size: 18px;
+    }
+     
+}
+
+@media only screen and (max-width: 540px) {
+
+    /*
+    Home
+    */
+    .video-box .video-arrow{
+        font-size: 70px;
+    }
+    .video-box h1 {
+      font-size: 35px;
+    }
+    .content{
+        top: 40px;
+        margin-bottom: 40px;
+        position: relative;
+    }
+    .enable-parallax .box { 
+      padding: 0 20px;
+    }
+    .enable-parallax {
+      height: 300px;
+      padding-top: 200px !important;
+      padding-bottom: 0 !important;
+    }
+    .copyright{
+        font-size: 10px;
+    }
+    .home-cities .wrap {
+      padding: 40px 20px;
+    }
+    .page-template-about-us .container{
+        padding-bottom: 40px;
+    }
+    .single section .img-wrap,
+    .single section .box{
+        width: 100%;
+        display: block;
+    }
+
+
+
+    /*
+    Footer
+    */
+    footer .info a .left{ 
+        width: 10%;
+    }
+    footer .info a .right: { 
+        width: 90%;
+    }
+    footer .info i {
+        font-size: 50px;
+        height: 77px;
+        top: 10px !important;
+        position: relative;
+    }
+
+    .flex-direction-nav .flex-prev,.flexslider:hover .flex-prev { 
+      left: 0;
+    }
+    .flex-direction-nav .flex-next,.flexslider:hover .flex-next { 
+      right: 0;
+    }
+    .flex-direction-nav a { 
+      height: 160px;
+      top: 50%;
+      bottom: 0;
+      margin-top: -90px;    
+      line-height: 160px;
+      width: 40px;
+    }
+
+
+    .address{
+        display: none;
+    }
+    .info i {
+      font-size: 30px;
+    }
+    .body-info i { 
+      width: 20px;
+    }
+    .body-info p{
+        margin-left: 40px;
+    }
+    .single .oculus { 
+      padding: 0 10px;
+    }
+    .wi-column{
+        width:100%;
+    }
+    .single .oculus .quantity-wrap > div:first-child{
+        width: 70%; 
+    }
+    .single .oculus .quantity-wrap .quantity{
+        width: 30%;
+    }
+    .single .oculus .form .cart input[type=number]{
+        float: right;
+    }
+
+    .page-template-contact-us .wpcf7{
+        width: 100%;
+        top: 50px;
+        padding: 10px;
+        position: relative;
+    }
+    .page-template-contact-us .parallax{
+        display: none;
+    }
+    .page-template-contact-us .content{
+        overflow: hidden;
+    }
+
+    .js-masonry{
+      margin: 0 auto;
+    }
+
+    .faq .title-wrap{
+        width: 90%
+    }
+    .faq .accordion{
+        width: 10%;
+    }
+
+
+    /*Single product*/
+    .single .products .mobile-wrap{
+
+        height: 360px;
+        overflow: hidden;
+    }
+    .single .products .woocommerce {
+      display: block;
+      overflow: hidden;
+      overflow-x: scroll;
+      width: 100%;
+        height: 380px; 
+    }
+    .single .products .woocommerce .js-masonry {
+      width: 200%;
+      display: table;
+      white-space: nowrap;
+    }
+    .single .products .woocommerce .js-masonry:after{
+        clear: both;
+        content: '';
+    }
+    .single .products article {
+      float: left;
+        max-height: 360px;
+      margin-left: 20px;
+    }
+    /* Else if not single product */
+    .archive .products article {
+      width: 90%; 
+      margin: 0 auto;
+      margin-top: 20px;
+    }
+
+
+    .breadcrumbs { 
+      padding-top: 0;
+    }
+    .breadcrumbs a{ 
+      line-height: 20px;
+    } 
+    .breadcrumbs .delimiter,
+    .breadcrumbs .current-page { 
+      line-height: 3px;
+    } 
+    .breadcrumbs .delimiter{
+        padding: 10px 0;
+        width: 10px;
+    } 
+ 
+   /* .products .woocommerce { 
+        background:#EFEFEF; 
+        box-shadow: 1px 1px 10px #999; 
+        margin: auto; 
+        text-align: center; 
+        position: relative;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+        margin-bottom: 20px !important;
+        width: 800px;
+        padding-top: 5px;
+    }
+    .products .woocommerce .js-masonry { 
+        overflow-x: scroll;
+        overflow-y: hidden;
+        height: 80px;
+        white-space:nowrap
+    } 
+    .products article { 
+        box-shadow: 1px 1px 10px #999; 
+        margin: 2px;
+        max-height: 50px;
+        cursor: pointer;
+        display:inline-block;
+        *display:inline;
+        *zoom:1;
+        vertical-align:top;
+    }
+     */
+}
+/* For general iPhone layouts */
+@media only screen and (max-width: 480px) {
+
+}

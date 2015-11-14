@@ -1,0 +1,130 @@
+/*font imports */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900,300,700); 
+ 
+
+@font-face {
+  font-family: 'Rubica';
+  src: url('./fonts/rubica/Rubrica.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Rubica';
+  src: url('./fonts/rubica/Rubrica_Italic.ttf') format('truetype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/bebasneue/BebasNeue Bold.ttf') format('truetype') ; /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3â€”5 */
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/bebasneue/BebasNeue Regular.woff') format('woff'),  
+       url('./fonts/bebasneue/BebasNeue Regular.ttf') format('truetype'),  
+       url('./fonts/bebasneue/BebasNeue Regular.otf') format('opentype') ;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/bebasneue/BebasNeue Light.otf') format('opentype'),  
+       url('./fonts/bebasneue/BebasNeue Light.ttf') format('truetype') ;
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/bebasneue/BebasNeue Thin.otf') format('opentype'),  
+       url('./fonts/bebasneue/BebasNeue Thin.ttf') format('truetype') ; /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3â€”5 */
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('./fonts/bebasneue/Bebas_Neue_Cyrillic.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3â€”5 */
+  font-weight: 600;
+}
+
+
+@font-face {
+  font-family: 'Dinner';
+  src: url('./fonts/dinner/Dinner-Obese.ttf') format('truetype') ; /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3â€”5 */
+  font-weight: bold;
+}
+@font-face {
+  font-family: 'Dinner';
+  src: url('./fonts/dinner/Dinner-Fatt.ttf') format('truetype');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Dinner';
+  src: url('./fonts/dinner/Dinner-Regular.ttf') format('truetype') ;
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Dinner';
+  
+  src: url('./fonts/dinner/Dinner-Skinny.ttf') format('truetype') ;
+  font-weight: 200;
+} 
+
+
+
+
+@font-face {
+  font-family: 'Lato';
+  src: url('./fonts/lato/Lato-Hairline.ttf') format('truetype') ; /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3â€”5 */
+}
+
+
+
+
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-Hairline.ttf') format('truetype') ;
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-HairlineItalic.ttf') format('truetype') ;
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-Light.ttf') format('truetype') ;
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-LightItalic.ttf') format('truetype') ;
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-Medium.ttf') format('truetype') ;
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-MediumItalic.ttf') format('truetype') ;
+    font-weight: 600;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-Bold.ttf') format('truetype') ;
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Lato';
+    src: url('./fonts/lato/Lato-BoldItalic.ttf') format('truetype') ;
+    font-weight: bold;
+    font-style: italic;
+}
+ 
+
+
