@@ -23,6 +23,7 @@ Styles written by me at:
 
 Some interesting pages: 
  1) the quote page - get a quote on this page to see how it works
-    http://wilko.nanocore.ru/get-a-quote-for-your-new-home/
+ 
+ http://wilko.nanocore.ru/get-a-quote-for-your-new-home/
 
 This project is live at http://wilko.nanocore.ru
